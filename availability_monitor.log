@@ -1,0 +1,38 @@
+[04/08/2025 04:22:57 PM] - [INFO] - Monitor triggered for 4 endpoints.
+[04/08/2025 04:22:58 PM] - [WARNING] - STATUS: DOWN - URL: https://dev-sre-take-home-exercise-rubric.us-east-1.recruiting-public.fetchrewards.com/body - Slow response: 1278.87ms
+[04/08/2025 04:22:59 PM] - [WARNING] - STATUS: DOWN - URL: https://dev-sre-take-home-exercise-rubric.us-east-1.recruiting-public.fetchrewards.com/ - Slow response: 1325.93ms
+[04/08/2025 04:23:01 PM] - [WARNING] - STATUS: DOWN - URL: https://dev-sre-take-home-exercise-rubric.us-east-1.recruiting-public.fetchrewards.com/ - Slow response: 1428.55ms
+[04/08/2025 04:23:03 PM] - [WARNING] - STATUS: DOWN - URL: https://dev-sre-take-home-exercise-rubric.us-east-1.recruiting-public.fetchrewards.com/error - Slow response: 2213.39ms
+[04/08/2025 04:23:03 PM] - [INFO] - --- Domain Availability Summary ---
+[04/08/2025 04:23:03 PM] - [INFO] - dev-sre-take-home-exercise-rubric.us-east-1.recruiting-public.fetchrewards.com has 0.00% availability percentage (0/4 endpoints up)
+
+Trying again in 15s...
+
+[04/08/2025 04:23:19 PM] - [WARNING] - STATUS: DOWN - URL: https://dev-sre-take-home-exercise-rubric.us-east-1.recruiting-public.fetchrewards.com/body - Slow response: 1311.97ms
+[04/08/2025 04:23:21 PM] - [WARNING] - STATUS: DOWN - URL: https://dev-sre-take-home-exercise-rubric.us-east-1.recruiting-public.fetchrewards.com/ - Slow response: 1423.89ms
+[04/08/2025 04:23:22 PM] - [WARNING] - STATUS: DOWN - URL: https://dev-sre-take-home-exercise-rubric.us-east-1.recruiting-public.fetchrewards.com/ - Slow response: 1435.70ms
+[04/08/2025 04:23:24 PM] - [WARNING] - STATUS: DOWN - URL: https://dev-sre-take-home-exercise-rubric.us-east-1.recruiting-public.fetchrewards.com/error - Slow response: 2145.68ms
+[04/08/2025 04:23:24 PM] - [INFO] - --- Domain Availability Summary ---
+[04/08/2025 04:23:24 PM] - [INFO] - dev-sre-take-home-exercise-rubric.us-east-1.recruiting-public.fetchrewards.com has 0.00% availability percentage (0/4 endpoints up)
+
+Trying again in 15s...
+
+[04/08/2025 04:23:41 PM] - [WARNING] - STATUS: DOWN - URL: https://dev-sre-take-home-exercise-rubric.us-east-1.recruiting-public.fetchrewards.com/body - Slow response: 1353.59ms
+[04/08/2025 04:23:42 PM] - [WARNING] - STATUS: DOWN - URL: https://dev-sre-take-home-exercise-rubric.us-east-1.recruiting-public.fetchrewards.com/ - Slow response: 1218.52ms
+[04/08/2025 04:23:43 PM] - [WARNING] - STATUS: DOWN - URL: https://dev-sre-take-home-exercise-rubric.us-east-1.recruiting-public.fetchrewards.com/ - Slow response: 1255.08ms
+[04/08/2025 04:23:45 PM] - [WARNING] - STATUS: DOWN - URL: https://dev-sre-take-home-exercise-rubric.us-east-1.recruiting-public.fetchrewards.com/error - Slow response: 2048.38ms
+[04/08/2025 04:23:45 PM] - [INFO] - --- Domain Availability Summary ---
+[04/08/2025 04:23:45 PM] - [INFO] - dev-sre-take-home-exercise-rubric.us-east-1.recruiting-public.fetchrewards.com has 0.00% availability percentage (0/4 endpoints up)
+
+Trying again in 15s...
+
+[04/08/2025 04:24:02 PM] - [WARNING] - STATUS: DOWN - URL: https://dev-sre-take-home-exercise-rubric.us-east-1.recruiting-public.fetchrewards.com/body - Slow response: 1577.31ms
+[04/08/2025 04:24:03 PM] - [WARNING] - STATUS: DOWN - URL: https://dev-sre-take-home-exercise-rubric.us-east-1.recruiting-public.fetchrewards.com/ - Slow response: 1426.05ms
+[04/08/2025 04:24:04 PM] - [WARNING] - STATUS: DOWN - URL: https://dev-sre-take-home-exercise-rubric.us-east-1.recruiting-public.fetchrewards.com/ - Slow response: 1327.63ms
+[04/08/2025 04:24:07 PM] - [WARNING] - STATUS: DOWN - URL: https://dev-sre-take-home-exercise-rubric.us-east-1.recruiting-public.fetchrewards.com/error - Slow response: 2152.90ms
+[04/08/2025 04:24:07 PM] - [INFO] - --- Domain Availability Summary ---
+[04/08/2025 04:24:07 PM] - [INFO] - dev-sre-take-home-exercise-rubric.us-east-1.recruiting-public.fetchrewards.com has 0.00% availability percentage (0/4 endpoints up)
+
+Trying again in 15s...
+
+[04/08/2025 04:24:20 PM] - [INFO] - Monitoring stopped by user
